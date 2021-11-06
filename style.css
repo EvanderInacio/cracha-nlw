@@ -18,7 +18,7 @@ body {
 }
 
 main {
-  background: url(/images/Background.jpg);
+  background: url(images/Background.jpg);
   width: 375px;
   height: 812px;
 }
