@@ -3,7 +3,7 @@ const socialMedia = {
   linkedin: 'in/evander-inacio',
   facebook: 'evandder.lopes',
   twitter: 'Evander_Inacio',
-  youtube: 'UCYWd6lz2dj5Cc-iWHCiJU5A'
+  youtube: 'channel/UCYWd6lz2dj5Cc-iWHCiJU5A'
 }
 
 function changeSocial() {
