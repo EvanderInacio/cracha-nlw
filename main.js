@@ -1,9 +1,9 @@
 const socialMedia = {
   github: 'EvanderInacio',
-  linkedin: 'in/evander-inacio',
+  linkedin: 'evander-inacio',
   facebook: 'evandder.lopes',
   twitter: 'Evander_Inacio',
-  youtube: 'channel/UCYWd6lz2dj5Cc-iWHCiJU5A'
+  youtube: 'UCYWd6lz2dj5Cc-iWHCiJU5A'
 }
 
 function changeSocial() {
